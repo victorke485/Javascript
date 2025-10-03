@@ -5,3 +5,4 @@
 2. [Variables](2_variables.js)
 3. [Operators](3_operators.js)
 4. [Conditionals](4_conditionals.js)
+5. [Loops](5_loops.js)
